@@ -1,0 +1,52 @@
+<div class="container">
+  <div class="row">
+    <div class="account-wall">
+      <h1 class="text-center">Afiliados por Región</h1>
+         <div class="row">
+	         <div class="col-md-12" ng-controller="regionController">
+              <div class="account-wall">
+                  <table ng-table="vm.tableParams" id="resultado" ng-hide="resultado" class="table table-condensed table-bordered table-striped">
+                    <div class="container">
+                      <div class="account-wall">
+                          <div class="row">
+                            <div class="col-md-12">
+                              <table ng-table="tableParams" template-pagination="custom/pager" class="table">
+                                <tr ng-repeat="user in $data">
+                                    <!-- <td data-title="'fecha_ingreso'" sortable="'fecha_ingreso'">
+                                        {{user.fecha_ingreso}}
+                                    </td> -->
+                                    <td data-title="'Region'">
+                                        {{user.region}}
+                                    </td>
+                                    <td data-title="'Conteo'">
+                                        {{user.conteo}}
+                                    </td>
+
+                                </tr>
+                            </table>
+                        </div>
+                <!-- <script type="text/ng-template" id="custom/pager">
+                    <ul class="pager ng-cloak">
+                        <li ng-repeat="page in pages"
+                            ng-class="{'disabled': !page.active, 'previous': page.type == 'prev', 'next': page.type == 'next'}"
+                            ng-show="page.type == 'prev' || page.type == 'next'" ng-switch="page.type">
+                            <a ng-switch-when="prev" ng-click="params.page(page.number)" href="">&laquo; Atras</a>
+                            <a ng-switch-when="next" ng-click="params.page(page.number)" href="">Siguiente &raquo;</a>
+                        </li>
+                        <li>
+                            <div class="btn-group">
+                                <button type="button" ng-class="{'active':params.count() == 10}" ng-click="params.count(10)" class="btn btn-default">10</button>
+                                <button type="button" ng-class="{'active':params.count() == 25}" ng-click="params.count(25)" class="btn btn-default">25</button>
+                                <button type="button" ng-class="{'active':params.count() == 50}" ng-click="params.count(50)" class="btn btn-default">50</button>
+                                <button type="button" ng-class="{'active':params.count() == 100}" ng-click="params.count(100)" class="btn btn-default">100</button>
+                            </div>
+                        </li>
+                    </ul>
+            </script> -->
+        </div>
+    </div>
+			     </div>
+		    </div>
+    </div>
+  </div>
+ </div>

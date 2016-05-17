@@ -1,0 +1,493 @@
+[24-Feb-2016 01:26:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:26:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:26:35 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:26:35 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:26:35 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 27
+[24-Feb-2016 01:26:35 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 28
+[24-Feb-2016 01:26:48 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:26:48 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:26:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 27
+[24-Feb-2016 01:26:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 28
+[24-Feb-2016 01:27:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:27:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:27:28 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:27:28 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:27:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 27
+[24-Feb-2016 01:27:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 28
+[24-Feb-2016 01:27:40 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:27:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 27
+[24-Feb-2016 01:27:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 28
+[24-Feb-2016 01:28:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:28:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:28:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:28:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:28:17 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:28:17 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 01:28:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:28:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:28:29 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:28:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:28:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:28:37 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:28:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:28:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:28:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:28:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:29:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:29:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:29:31 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:29:31 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:29:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:29:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:29:32 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:29:32 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:29:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:29:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:29:39 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:29:39 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:29:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:29:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:30:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:30:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:30:17 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:30:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:30:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:30:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:30:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:31:03 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 01:31:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:31:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:32:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:32:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:32:24 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 01:32:24 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:32:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:32:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:32:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:32:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:32:44 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 01:32:44 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:32:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:32:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:32:59 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 01:32:59 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:33:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:33:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:33:07 Etc/GMT] PHP Warning:  mysqli_query(): (HY000/2013): Lost connection to MySQL server during query in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 17
+[24-Feb-2016 01:33:07 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:33:07 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:33:07 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 31
+[24-Feb-2016 01:33:09 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 01:33:09 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:33:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:33:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:33:14 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 01:33:14 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:33:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:33:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:34:22 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 01:34:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 01:34:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 01:49:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:49:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:50:04 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:50:04 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 01:58:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 01:58:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:22:50 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:22:50 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:23:07 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:23:07 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:26:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:26:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:28:04 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:28:04 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:28:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:28:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:28:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:28:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:30:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:30:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:30:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:30:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:31:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:31:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:31:16 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 02:31:16 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:31:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:31:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:31:21 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:31:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:31:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:33:05 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:33:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:33:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:33:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:33:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:33:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:33:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:33:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:33:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:33:52 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:33:52 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:33:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:33:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:34:02 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:34:02 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:34:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:34:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:34:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:34:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:35:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:35:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:35:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:35:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:38:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:38:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:45:16 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:45:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:45:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:45:23 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:45:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:45:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:45:33 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:45:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:45:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:45:56 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:45:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:45:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:54:52 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:54:52 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:56:24 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:56:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:56:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:56:45 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 02:56:45 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:56:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:56:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:57:15 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 02:57:15 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:57:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:57:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:57:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 02:57:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 02:57:21 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 02:57:21 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 02:57:21 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:57:31 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:57:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:57:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:57:35 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:57:35 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:57:35 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:57:37 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 02:57:37 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:57:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:57:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:57:43 Etc/GMT] PHP Warning:  mysqli_query(): (HY000/2013): Lost connection to MySQL server during query in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 17
+[24-Feb-2016 02:57:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:57:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 02:57:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 31
+[24-Feb-2016 02:57:49 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 02:57:49 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 02:57:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 02:57:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 03:10:09 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 03:10:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 03:10:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 11:47:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 11:47:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 11:47:58 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 11:47:58 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 11:47:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 11:47:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 11:48:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 11:48:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 18:46:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 18:46:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 18:55:08 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 18:55:08 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 18:55:13 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 18:55:13 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 18:55:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 18:55:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 18:55:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 18:55:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 18:55:36 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 18:55:36 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 18:55:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 25
+[24-Feb-2016 18:55:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 26
+[24-Feb-2016 19:01:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 19:01:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 19:01:42 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 19:01:42 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 19:01:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 51
+[24-Feb-2016 19:01:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 52
+[24-Feb-2016 19:01:42 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 57
+[24-Feb-2016 19:01:57 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 19:01:57 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 19:01:57 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 51
+[24-Feb-2016 19:01:57 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 52
+[24-Feb-2016 19:01:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 57
+[24-Feb-2016 19:02:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 19:02:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 19:02:52 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 19:02:52 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 19:03:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 51
+[24-Feb-2016 19:03:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 52
+[24-Feb-2016 19:03:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 19:03:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 19:03:23 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 19:03:23 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 19:03:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 51
+[24-Feb-2016 19:03:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 52
+[24-Feb-2016 19:03:23 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 57
+[24-Feb-2016 19:03:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 19:03:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 19:03:58 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 19:03:58 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 19:03:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 51
+[24-Feb-2016 19:03:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 52
+[24-Feb-2016 19:05:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 19:05:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 19:05:49 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 19:05:49 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 19:05:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[24-Feb-2016 19:05:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[24-Feb-2016 19:05:49 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 59
+[24-Feb-2016 19:06:05 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 19:06:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[24-Feb-2016 19:06:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[24-Feb-2016 19:06:05 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 59
+[24-Feb-2016 19:06:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 19:06:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 19:07:03 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 19:07:03 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 19:07:13 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[24-Feb-2016 19:07:13 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[24-Feb-2016 19:12:02 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 19:12:02 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 19:12:26 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[24-Feb-2016 19:12:26 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 19:12:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[24-Feb-2016 19:12:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[24-Feb-2016 19:15:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 19:15:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 19:15:50 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 19:15:50 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[24-Feb-2016 19:15:50 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[24-Feb-2016 19:15:50 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[24-Feb-2016 19:23:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 19:23:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[24-Feb-2016 19:23:24 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[24-Feb-2016 19:23:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[24-Feb-2016 19:23:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[24-Feb-2016 21:47:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[24-Feb-2016 21:47:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[25-Feb-2016 21:10:30 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[25-Feb-2016 21:10:30 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[25-Feb-2016 21:10:40 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[25-Feb-2016 21:10:40 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[25-Feb-2016 21:10:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[25-Feb-2016 21:10:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[25-Feb-2016 21:10:48 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[25-Feb-2016 21:10:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[25-Feb-2016 21:10:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[25-Feb-2016 21:11:01 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[25-Feb-2016 21:11:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[25-Feb-2016 21:11:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[26-Feb-2016 11:32:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[26-Feb-2016 11:32:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[26-Feb-2016 11:32:43 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[26-Feb-2016 11:32:43 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[26-Feb-2016 11:32:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[26-Feb-2016 11:32:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[27-Feb-2016 01:11:30 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[27-Feb-2016 01:11:30 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[27-Feb-2016 01:11:38 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[27-Feb-2016 01:11:38 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[27-Feb-2016 01:11:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[27-Feb-2016 01:11:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[27-Feb-2016 01:11:44 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[27-Feb-2016 01:11:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[27-Feb-2016 01:11:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[27-Feb-2016 01:15:18 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[27-Feb-2016 01:15:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[27-Feb-2016 01:15:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[27-Feb-2016 01:15:20 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[27-Feb-2016 01:15:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[27-Feb-2016 01:15:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[27-Feb-2016 21:40:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[27-Feb-2016 21:40:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[27-Feb-2016 21:40:35 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[27-Feb-2016 21:40:35 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[27-Feb-2016 21:40:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[27-Feb-2016 21:40:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[27-Feb-2016 21:40:41 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[27-Feb-2016 21:40:41 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[27-Feb-2016 21:40:41 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[27-Feb-2016 21:41:37 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[27-Feb-2016 21:41:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[27-Feb-2016 21:41:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[28-Feb-2016 22:11:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[28-Feb-2016 22:11:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[28-Feb-2016 22:24:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[28-Feb-2016 22:24:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[28-Feb-2016 22:25:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[28-Feb-2016 22:25:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[28-Feb-2016 22:28:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[28-Feb-2016 22:28:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[28-Feb-2016 22:28:02 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[28-Feb-2016 22:28:02 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[28-Feb-2016 22:28:02 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[28-Feb-2016 22:28:02 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[28-Feb-2016 22:28:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[28-Feb-2016 22:28:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[28-Feb-2016 22:51:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[28-Feb-2016 22:51:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 00:21:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Feb-2016 00:21:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 00:21:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Feb-2016 00:21:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 00:22:09 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[29-Feb-2016 00:22:09 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[29-Feb-2016 00:22:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[29-Feb-2016 00:22:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[29-Feb-2016 00:22:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Feb-2016 00:22:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 00:23:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Feb-2016 00:23:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 00:23:23 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[29-Feb-2016 00:23:23 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[29-Feb-2016 00:23:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[29-Feb-2016 00:23:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[29-Feb-2016 00:23:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Feb-2016 00:23:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 00:25:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Feb-2016 00:25:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 01:07:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Feb-2016 01:07:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 01:12:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Feb-2016 01:12:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 01:18:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Feb-2016 01:18:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 01:18:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Feb-2016 01:18:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 03:47:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Feb-2016 03:47:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Feb-2016 03:47:26 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[29-Feb-2016 03:47:26 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[29-Feb-2016 03:47:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[29-Feb-2016 03:47:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[29-Feb-2016 03:47:32 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[29-Feb-2016 03:47:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[29-Feb-2016 03:47:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[03-Mar-2016 17:43:53 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[03-Mar-2016 17:43:53 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[03-Mar-2016 17:43:55 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[03-Mar-2016 17:43:55 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[03-Mar-2016 17:43:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[03-Mar-2016 17:43:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[03-Mar-2016 20:49:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[03-Mar-2016 20:49:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[03-Mar-2016 20:49:27 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[03-Mar-2016 20:49:27 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[03-Mar-2016 20:49:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[03-Mar-2016 20:49:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[03-Mar-2016 20:49:28 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[03-Mar-2016 20:49:28 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[03-Mar-2016 20:49:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[03-Mar-2016 20:49:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[07-Mar-2016 03:27:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[07-Mar-2016 03:27:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[07-Mar-2016 03:27:14 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[07-Mar-2016 03:27:14 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[07-Mar-2016 03:27:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[07-Mar-2016 03:27:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[13-Mar-2016 01:46:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[13-Mar-2016 01:46:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[13-Mar-2016 01:46:47 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[13-Mar-2016 01:46:47 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[13-Mar-2016 01:46:47 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[19-Mar-2016 16:45:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[19-Mar-2016 16:45:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[19-Mar-2016 16:45:55 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[19-Mar-2016 16:45:55 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[19-Mar-2016 16:45:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[19-Mar-2016 16:45:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[19-Mar-2016 16:46:18 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[19-Mar-2016 16:46:18 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[19-Mar-2016 16:46:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[19-Mar-2016 16:46:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[19-Mar-2016 16:46:28 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[19-Mar-2016 16:46:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[19-Mar-2016 16:46:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[19-Mar-2016 16:46:50 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[19-Mar-2016 16:46:50 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[19-Mar-2016 16:46:50 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[19-Mar-2016 16:47:54 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[19-Mar-2016 16:47:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[19-Mar-2016 16:47:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[19-Mar-2016 16:48:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[19-Mar-2016 16:48:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[19-Mar-2016 16:48:07 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[19-Mar-2016 16:48:07 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[19-Mar-2016 16:48:08 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[19-Mar-2016 16:48:08 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[19-Mar-2016 16:48:09 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[19-Mar-2016 16:48:09 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[19-Mar-2016 16:48:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[19-Mar-2016 16:48:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[26-Mar-2016 03:59:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[26-Mar-2016 03:59:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[26-Mar-2016 03:59:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[26-Mar-2016 03:59:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[26-Mar-2016 03:59:56 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[26-Mar-2016 03:59:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[26-Mar-2016 03:59:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[26-Mar-2016 04:00:03 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[26-Mar-2016 04:00:04 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[26-Mar-2016 04:00:04 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[28-Mar-2016 18:09:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[28-Mar-2016 18:09:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[28-Mar-2016 18:13:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[28-Mar-2016 18:13:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[28-Mar-2016 18:13:12 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[28-Mar-2016 18:13:12 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[28-Mar-2016 18:13:21 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[28-Mar-2016 18:13:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[28-Mar-2016 18:13:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[28-Mar-2016 18:13:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[28-Mar-2016 18:13:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[28-Mar-2016 18:16:08 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[28-Mar-2016 18:16:08 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Mar-2016 16:45:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[29-Mar-2016 16:45:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[29-Mar-2016 16:58:57 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[29-Mar-2016 16:58:57 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[29-Mar-2016 16:58:57 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[29-Mar-2016 16:58:57 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[29-Mar-2016 16:58:58 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[29-Mar-2016 16:58:58 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[29-Mar-2016 16:58:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[29-Mar-2016 16:58:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[01-Apr-2016 03:27:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[01-Apr-2016 03:27:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[01-Apr-2016 03:27:08 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[01-Apr-2016 03:27:08 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[01-Apr-2016 03:27:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[01-Apr-2016 03:27:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[04-Apr-2016 01:49:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[04-Apr-2016 01:49:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[04-Apr-2016 01:49:39 Etc/GMT] PHP Notice:  Undefined index: region in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 12
+[04-Apr-2016 01:49:39 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[04-Apr-2016 01:49:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[04-Apr-2016 01:49:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[05-Apr-2016 00:04:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[05-Apr-2016 00:04:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19
+[05-Apr-2016 00:04:34 Etc/GMT] PHP Notice:  Undefined index: nombre in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 13
+[05-Apr-2016 00:04:34 Etc/GMT] PHP Notice:  Undefined index: rut in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 14
+[05-Apr-2016 00:04:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 53
+[05-Apr-2016 00:04:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaAfiliados.php on line 54
+[05-Apr-2016 00:05:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 18
+[05-Apr-2016 00:05:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ecologistas/public_html/afiliados/sistema/admin/php/listaRegiones.php on line 19

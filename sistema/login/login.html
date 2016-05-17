@@ -1,0 +1,49 @@
+<style>
+
+body {
+    background:url(sistema/login/img/fondo.jpg) no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.profile-img {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 10px;
+  display: block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+
+</style>
+<div class="container">
+<toaster-container toaster-options="{'time-out': 3000, 'close-button':false}"></toaster-container>
+ <!-- <toaster-container toaster-options="{'time-out': 3000, 'close-button':false}"></toaster-container>   -->
+  <div class="row">
+    <div class="col-sm-6 col-md-4 col-md-offset-4">
+      <!-- <h1 class="text-center login-title">Bienvenido al Sistema Dentosys</h1> -->
+      <div class="account-wall">
+        <img class="profile-img" src="sistema/login/img/logo.jpg" alt="">
+          <h1 class="text-center login-title">Partido Ecologista Verde Admin</h1>
+        <form ng-submit="login()" class="form-signin" name="loginForm">
+          <!-- <input type="email" name="email" class="form-control" ng-model="correo" placeholder="Email" required autofocus> -->
+          <input type="password" class="form-control" ng-model="password" placeholder="Password" required autofocus>
+          <button class="btn btn-lg btn-primary btn-block" type="submit" ng-disabled="!loginForm.$valid">
+              Entrar
+          </button>
+          <!--<label class="checkbox pull-left">
+            <input type="checkbox" value="remember-me"> Recordarme
+          </label>-->
+          <!--<a href="#" class="pull-right need-help">Necesita Ayuda? </a><span class="clearfix"></span>
+          <a href="#/registro" class="text-center new-account">Crear una Cuenta </a>-->
+        </form>
+      </div>
+      <!-- <a href="#/registro" class="text-center new-account">Crear una Cuenta </a> -->
+
+    </div>
+  </div>
+</div>

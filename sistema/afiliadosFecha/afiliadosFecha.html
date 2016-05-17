@@ -1,0 +1,132 @@
+<toaster-container toaster-options="{'time-out': 3000, 'close-button':false}"></toaster-container>
+<div class="container">
+  <div class="row">
+    <div class="account-wall ocultar" id="Acciones">
+        <form ng-submit="envioPagosFecha()" class="form-inline" name="pagosFecha">
+          <h1 class="text-center">Afiliados por Fecha</h1>
+          <div class="row">
+            <div class="form-group col-md-4">
+              <label>Fecha Inicio</label>
+              <input id="inicio" type="date" class="form-control" data-date-format="DD MMMM YYYY"ng-model="fecha.inicio" required>
+            </div>
+            <div class="form-group col-md-4">
+            </div>
+            <div class="form-group col-md-4">
+              <label>Fecha Fin</label>
+              <input id="fin" type="date" class="form-control" ng-model="fecha.fin" required>
+            </div>
+          </div>
+          <div class="row">
+             <div class="col-md-12">
+                <!-- <button class="btn btn-primary btn-lg btn-block"  data-toggle="modal" ng-disabled="!pagosFecha.$valid" data-target="#modalPagos">Generar Informe</button> -->
+                <button type="button" ng-click="Afiliados()" class="btn btn-primary btn-lg btn-block" ng-disabled="!pagosFecha.$valid">Ver Documento</button>
+             </div>
+          </div>
+        </form>
+    </div>
+    <div class="account-wall" ng-show="total != null">
+      <table ng-table="vm.tableParams" id="resultado" ng-hide="resultado" class="table table-condensed table-bordered table-striped">
+    <div class="container">
+     <div class="account-wall">
+        <h1>Lista de Afiliados</h1>
+        <div class="row">
+            <div class="col-md-12">
+             <strong>Pagina:</strong> {{tableParams.page()}}
+             <strong>Datos por Paginas:</strong> {{tableParams.count()}}
+             <strong>Total:</strong> {{total}}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <table ng-table="tableParams" template-pagination="custom/pager" class="table">
+                    <tr ng-repeat="user in $data">
+                        <!-- <td data-title="'fecha_ingreso'" sortable="'fecha_ingreso'">
+                            {{user.fecha_ingreso}}
+                        </td> -->
+                        <td data-title="'RUT'" filter="{ 'RUT': 'text' }" style="width: 8%;">
+                            {{user.RUT}}
+                        </td>
+                        <td data-title="'Nombre'" filter="{ 'Nombre': 'text' }">
+                            {{user.Nombre}}
+                        </td>
+                        <td data-title="'Comuna'" filter="{ 'circu': 'text' }">
+                            {{user.circu}}
+                        </td>
+                        <!-- <td data-title="'Region'" sortable="'Region'">
+                            {{user.Region}}
+                        </td> -->
+                        <td data-title="'Region'" filter="{ 'NombreRegion': 'text' }">
+                            {{user.NombreRegion}}
+                        </td>
+                        <td data-title="'Estado'" sortable="'estado'">
+                            {{user.estado}}
+                        </td>
+                        <td data-title="'Cargo'" sortable="'Cargo'">
+                            {{user.Cargo}}
+                        </td>
+                        <td data-title="'Modificar'">
+                            <button type="button" class="btn-primary btn-block" data-toggle="modal" data-target="#modificaAfiliado" ng-click="edita(user)">Modificar</button>
+                            <!-- <div class="form-grup">
+                             <button ng-click="edita(user)">
+                                Ver / Modificar
+                             </button>
+                            </div> -->
+                        </td>
+                    </tr>
+                </table>
+            </div>
+                <script type="text/ng-template" id="custom/pager">
+                    <ul class="pager ng-cloak">
+                        <li ng-repeat="page in pages"
+                            ng-class="{'disabled': !page.active, 'previous': page.type == 'prev', 'next': page.type == 'next'}"
+                            ng-show="page.type == 'prev' || page.type == 'next'" ng-switch="page.type">
+                            <a ng-switch-when="prev" ng-click="params.page(page.number)" href="">&laquo; Atras</a>
+                            <a ng-switch-when="next" ng-click="params.page(page.number)" href="">Siguiente &raquo;</a>
+                        </li>
+                        <li>
+                            <div class="btn-group">
+                                <button type="button" ng-class="{'active':params.count() == 10}" ng-click="params.count(10)" class="btn btn-default">10</button>
+                                <button type="button" ng-class="{'active':params.count() == 25}" ng-click="params.count(25)" class="btn btn-default">25</button>
+                                <button type="button" ng-class="{'active':params.count() == 50}" ng-click="params.count(50)" class="btn btn-default">50</button>
+                                <button type="button" ng-class="{'active':params.count() == 100}" ng-click="params.count(100)" class="btn btn-default">100</button>
+                            </div>
+                        </li>
+                    </ul>
+            </script>
+        </div>
+    </div>
+</div>
+</table>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div id="modificaAfiliado" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Modificar a {{afiliado.Nombre}}</h4>
+      </div>
+      <div class="modal-body">
+        <form ng-submit="editaAfiliado()">
+          <fieldset class="form-group">
+            <label for="formGroupExampleInput">Rut</label>
+            <input type="text" ng-model="afiliado.RUT" class="form-control" required>
+            <label for="formGroupExampleInput2">Nombre</label>
+            <input type="text" ng-model="afiliado.Nombre" class="form-control" required>
+            <label for="formGroupExampleInput3">Estado</label>
+            <input type="text" ng-model="afiliado.estado" class="form-control" required>
+            <br>
+            <button class="btn btn-success" type="submit">Editar</button>
+          </fieldset>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>

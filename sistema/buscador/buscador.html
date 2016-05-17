@@ -1,0 +1,123 @@
+<style>
+html,
+body {
+    height: 100%; /* not necessary if you have a fixed height on the feature area */
+    background: url(img/green-vote2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: DIN ALTERNATE BOLD;
+}
+/* ------ featurette */
+.featurette {
+    display: table;
+    width: 100%;
+    height: 30%; /* set a pixel height and then remove the body,html height */
+    vertical-align: middle;
+    background: #009639;
+    color: #fff;
+}
+.featurette-inner {
+    display: table-cell;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+.featurette .search {
+    padding: 3%;
+    max-width: 980px; /*max width of search*/
+    margin: 0 auto;
+}
+.no-margin-top {
+    margin-top: 0
+}
+.recuadro {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.titulo{
+    text-align: center;
+    font-weight: bold;
+}
+
+
+/* ------ form-control-lg */
+.form-control-lg {
+    min-height: 46px;
+    border-radius: 6px;
+    font-size: 18px;
+    line-height: normal;
+}
+
+/* ------ disjointed form group custom */
+.featurette .search.has-button .btn {
+    margin-top: 5px;
+    width: 100%;
+}
+@media (min-width:480px) {
+    .featurette .search.has-button .form-group {
+        position: relative;
+        padding-right: 99px; /*space for button*/
+    }
+    .featurette .search.has-button .btn {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: auto;
+        margin: 0;
+    }
+}
+
+</style>
+
+<!-- example 1 -->
+
+<div class="featurette">
+   <div class="featurette-inner text-center">
+      <form class="search" name="buscador" ng-submit="envio()">
+        <span><img src="img/logotipo-PEV.png"></span>
+         <h3 class="no-margin-top h1">Somos <strong>{{total[0].totalEcologistas | number}}</strong> Ecologistas en Chile, ve si eres un@ de ell@s</h3>
+         <div class="input-group input-group-lg">
+            <!-- <input type="text" ng-model="afiliado.rut" pattern="[0-9]{8,9}" placeholder="9 Digitos sin puntos ni guion" class="form-control" required> -->
+            <input type="text" ng-model="afiliado.rut" placeholder="9 dígitos sin puntos ni guión" class="form-control" required>
+            <span class="input-group-btn">
+            <button class="btn btn-success" type="submit" ng-disabled="!buscador.$valid" >Buscar</button>
+            </span>
+         </div>
+         <!-- /input-group -->
+      </form>
+      <!-- /.max-width on this form -->
+
+   </div>
+   <!-- /.featurette-inner (display:table-cell) -->
+
+</div>
+<div id="resultado_ok">
+    <div class="recuadro" id="resultado">
+        <h1 class="titulo">Resultado</h1>
+        <p><strong>RUT</strong>: {{ persona[0].RUT }}</p>
+        <p><strong>NOMBRE</strong>: {{ persona[0].Nombre }}</p>
+        <p><strong>REGION</strong>: {{ persona[0].NombreRegion}}</p>
+        <p><strong>COMUNA</strong>: {{ persona[0].circu}}</p>
+        <p><strong>FECHA INGRESO</strong>: {{ persona[0].fecha_ingreso}}</p>
+    </div>
+    <div class="recuadro" id="existe">
+        <h1 class="titulo">Información</h1>
+        <p>Junto contigo, somos <strong>{{ encargado[0].conteo | number }}</strong> afiliados en tu región, <strong>SI QUIERES UNIRTE AL EQUIPO</strong>, contáctate con el(la) coordinador(a) regional <strong>{{ encargado[0].presindente }}</strong> a <strong><a ng-href="mailto:{{encargado[0].correo}}">{{ encargado[0].correo }}</a></strong>
+        </p>
+        <p>Si quieres <strong>BORRARTE</strong> de nuestros registros escríbenos a <strong><a ng-href="mailto:partidoverdechile@gmail.com">partidoverdechile@gmail.com</a></strong></p>
+    </div>
+    <div class="recuadro" id="noexiste">
+        <h1 class="titulo">Información</h1>
+        <p>No tenemos equipo consolidado en tu región, si nos quieres <strong>AYUDAR A FORMARLO</strong>, contáctanos a <strong><a ng-href="mailto:partidoverdechile@gmail.com">partidoverdechile@gmail.com</a></strong></p>
+    </div>
+    <div class="recuadro" id="noafiliado">
+        <h1 class="titulo"><strong>NO ESTÁS INSCRIT@ EN EL PARTIDO ECOLOGISTA VERDE</strong></h1>
+        <p style="text-align: center; text-transform: uppercase;">Si quieres <strong>SUMARTE</strong> a nuestra colectividad, escríbenos a <strong><a ng-href="mailto:partidoverdechile@gmail.com">partidoverdechile@gmail.com</a></strong></p>
+    </div>
+</div>
+
+
+<!-- /.featurette (display:table) -->
