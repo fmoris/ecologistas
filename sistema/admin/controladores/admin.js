@@ -93,6 +93,8 @@ afiliados.controller('adminController', function(ngTableParams, $scope, $http, $
             }
         }).success(function(data) {
                 console.log(data);
+                //window.open('pagina.php?id='+id,'_blank');
+                window.open('sistema/admin/php/exportarExcel.php?region='+$scope.Numero.Numero,'_blank');
         }).error(function(data) {
                 console.log(data);
         })

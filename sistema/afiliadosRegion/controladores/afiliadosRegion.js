@@ -9,6 +9,7 @@ afiliados.controller('regionController', function(ngTableParams, $scope, $http, 
     }*/
 
     $scope.fecha = {};
+    $scope.loading = false;
 
     $scope.Afiliados = function() {
         $http.get('sistema/afiliadosRegion/php/afiliadosRegion.php', {
@@ -63,4 +64,29 @@ afiliados.controller('regionController', function(ngTableParams, $scope, $http, 
 
 
     $scope.Afiliados();
+    
+    $scope.exportar = function(numero){
+        $scope.cargando = true;
+        $scope.region = numero;
+        $http.get('sistema/afiliadosRegion/php/exportarExcel.php', {
+            params: {
+                region: $scope.region
+            }
+        }).success(function(data) {
+            
+                //window.open('pagina.php?id='+id,'_blank');
+                window.open('sistema/afiliadosRegion/php/exportarExcel.php?region='+$scope.region,'_blank'); 
+                $scope.cargando = true;
+        })
+    }
+    
+    $scope.cargando = function(){
+        if($scope.loading){
+            $scope.loading = false;
+            console.log($scope.loading);
+        }else{
+            $scope.loading = true;
+            console.log($scope.loading);
+        }        
+    }
 })

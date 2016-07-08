@@ -1,4 +1,8 @@
-var afiliados = angular.module('afiliados', ['ngRoute', 'ngTable', 'toaster', 'ngAnimate']);
+var afiliados = angular.module('afiliados', ['ngRoute',
+                                             'ngTable',
+                                             'toaster',
+                                             'ngAnimate'
+                                            ]);
 afiliados.config(['$routeProvider',
     function($routeProvider) {
 

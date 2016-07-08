@@ -9,10 +9,10 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 // reemplazar con ("localhost", USUARIO, PASSWORD, NOMBRE_DE_BASE_DE_DATOS)
 include('../../../php/coneccion.php');
 
-    $result = mysqli_query($conexion,"SELECT regiones.Region as 'region', COUNT( afiliados.Rut ) AS  'conteo'
+    $result = mysqli_query($conexion,"SELECT regiones.Numero as 'numero',regiones.Region as 'region', COUNT( afiliados.Rut ) AS  'conteo'
                                       FROM afiliados, regiones
                                       WHERE afiliados.Region = regiones.Numero
-                                      GROUP BY Region");
+                                      GROUP BY Region, numero");
 
 mysqli_query($result, "SET NAMES 'utf8'");
 mysqli_query($result, "SET CHARACTER SET 'utf8'");
@@ -25,6 +25,7 @@ while($row = mysqli_fetch_array($result)){
     $usuario = array();
     $usuario["region"] = $row['region'];
     $usuario["conteo"] = $row['conteo'];
+    $usuario["numero"] = $row['numero'];
 
 
 /// inserta el objeto con los datos de registro, dentro del arreglo general
